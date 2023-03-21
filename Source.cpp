@@ -109,6 +109,7 @@ int main()
             }
 
         }
+
         if (no_one == 0)
         {
             max_counter_test_3 = 0;
